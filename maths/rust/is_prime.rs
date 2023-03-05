@@ -29,7 +29,7 @@ fn is_prime(n: u64) -> bool {
 
 // Find the nth prime number
 fn nth_prime(n: u64) -> u64 {
-    let mut count = 0; // Counter for how many prime numbers we have found so far
+    let mut count = 0; // Ceounter for how many prime numbers we have found so far
     let mut i = 2; // Start checking from 2, the first prime number
     // Loop until we have found the nth prime number
     while count < n {
