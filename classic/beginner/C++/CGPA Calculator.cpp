@@ -1,5 +1,5 @@
 /**
- * Author: YOUR_NAME
+ * Author: NISEOM
  * Date: 2023
  * Description: This Rust code implements a CGPA calculator program that allows a user to input
  * information about the courses they have taken and calculates their cumulative grade point average.
